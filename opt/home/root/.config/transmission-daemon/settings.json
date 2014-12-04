@@ -62,5 +62,7 @@
     "trash-original-torrent-files": false, 
     "umask": 18, 
     "upload-slots-per-torrent": 2, 
-    "utp-enabled": true
+    "utp-enabled": true, 
+    "watch-dir": "/sdcard/watch", 
+    "watch-dir-enabled": true
 }
